@@ -1,4 +1,4 @@
 # Lopatester
-DIY simple network cable tester (subtitled)
-
-<img src="/Pictures/front_900.jpg"  width="600px"/>
+Some photos: 
+<img src="/Pictures/front_900.jpg"  width="500px"/>
+<img src="/Pictures/sboku_900.jpg"  width="500px"/>
