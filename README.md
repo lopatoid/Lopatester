@@ -1,12 +1,12 @@
 # Lopatester
 
 Video:
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=pPG68J4CtGU" target="_blank"><img src="http://img.youtube.com/vi/pPG68J4CtGU/0.jpg" width="240" height="180" border="10" /></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=pPG68J4CtGU" target="_blank"><img src="http://img.youtube.com/vi/pPG68J4CtGU/0.jpg" width="480px" height="360" border="10" /></a>
 
 Photos:
 
-<img src="/Pictures/front_900.jpg"  width="500px"/>
-<img src="/Pictures/sboku_900.jpg"  width="500px"/>
+<img src="/Pictures/front_900.jpg"  width="480px"/>
+<img src="/Pictures/sboku_900.jpg"  width="480px"/>
 
 
 To make you own DIY ethernet cable tester you need
